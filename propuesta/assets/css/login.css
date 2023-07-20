@@ -1,0 +1,36 @@
+body{
+	
+	background-image: url("https://www.crushpixel.com/big-static14/preview4/businessman-touch-virtual-padlock-icon-1287731.jpg");
+	background-color: #2F35CFFF;
+	text-align: center;
+
+ }	
+
+.form-login{
+	background-color: #FFFFFF95;
+	
+	padding: 50px;
+	height: 100%;
+	width: 50%;
+	border-radius: 10%;
+	
+}
+img{
+	padding: 5px;
+	margin: 20px;
+	height: 150px;
+	width: 160px;
+	background-color: #FFFFFF75; 
+	border-radius: 50%;
+}
+.form-login {
+	 text-align: center;
+	 font-size: 15px;
+
+}
+.container {
+	padding: 10%;
+}
+input{
+	background-color: #FFFFFF55;!important
+}
